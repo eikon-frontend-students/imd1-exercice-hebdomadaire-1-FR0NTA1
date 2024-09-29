@@ -1,9 +1,25 @@
 /* 🦊 Ajoutez tous les styles manquants pour recréer la maquette! */
 
 body {
+  padding: 60px;
   font-family: "Silkscreen", monospace;
 }
-
+div {
+}
 img {
   display: block;
+}
+p {
+  border: 60px;
+  padding: 20px;
+}
+h1 {
+  padding: 20px;
+  font-weight: 300;
+  font-size: 50px;
+}
+
+a {
+  font-size: 20px;
+  color: black;
 }
